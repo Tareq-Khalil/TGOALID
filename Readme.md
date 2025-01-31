@@ -57,7 +57,7 @@ The **Online Payment Hub** is a secure and efficient platform that facilitates e
 ---
 This project serves as a robust online payment hub, ensuring secure, fast, and efficient transactions for businesses and individuals worldwide.
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME (tareqkhalil1415@gmail.com) *****  
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME (tareqkhalil1415@gmail.com)(https://hackclub.slack.com/team/U086RRTQA3Z)*****  
 
 ***** FOR MORE PROJECTS:- https://github.com/Tareq-Khalil *****
 
